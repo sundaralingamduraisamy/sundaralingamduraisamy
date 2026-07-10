@@ -34,3 +34,44 @@ I'm a Final-Year Computer Science & Business Systems undergraduate passionate ab
 </a>
 
 </p>
+---
+
+# 💻 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,go" />
+</p>
+
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**LLMs & AI Frameworks**
+
+- LangChain
+- LangGraph
+- RAG
+- FAISS
+- pgvector
+- HuggingFace Transformers
+- OpenAI API
+- Anthropic Claude
+- Groq
+- AWS Bedrock
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" />
+</p>
+
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
+</p>
