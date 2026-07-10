@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Final-Year Computer Science & Business Systems undergraduate passionate about building production-ready AI applications.
+I'm a Final-Year Computer Science & Business Systems undergraduate with industry experience building production-ready AI applications using LLMs, Agentic AI, RAG pipelines, FastAPI, Computer Vision, and modern cloud technologies.
 
 - 🔭 Currently working as an **AI Engineer Intern**
 - 🤖 Building **Agentic AI** and **LLM-powered applications**
@@ -34,25 +34,28 @@ I'm a Final-Year Computer Science & Business Systems undergraduate passionate ab
 </a>
 
 </p>
+
 ---
 
-# 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 ### Languages
-<p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,go" />
 </p>
 
 ### AI / Machine Learning
-<p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-**LLMs & AI Frameworks**
+### LLMs & AI Frameworks
 
 - LangChain
 - LangGraph
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - FAISS
 - pgvector
 - HuggingFace Transformers
@@ -62,16 +65,19 @@ I'm a Final-Year Computer Science & Business Systems undergraduate passionate ab
 - AWS Bedrock
 
 ### Backend
-<p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs" />
 </p>
 
 ### Databases
-<p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
 ### Cloud & DevOps
-<p>
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux" />
 </p>
