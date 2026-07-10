@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sundaralingam D</h1>
+---
 
-<h3 align="center">
-AI Engineer • Agentic AI • Generative AI • RAG • Computer Vision
-</h3>
+## 👨‍💻 About Me
+
+I'm a Final-Year Computer Science & Business Systems undergraduate passionate about building production-ready AI applications.
+
+- 🔭 Currently working as an **AI Engineer Intern**
+- 🤖 Building **Agentic AI** and **LLM-powered applications**
+- 🧠 Specialized in **RAG, LangChain, LangGraph & FastAPI**
+- 👁️ Experienced in **Computer Vision & Multimodal AI**
+- ⚙️ Developing scalable backend APIs with **Python**
+- 🚀 Interested in AI Agents, Enterprise GenAI and Intelligent Automation
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Agentic+AI+Developer;RAG+Systems+Builder;FastAPI+Backend+Developer;Computer+Vision+Engineer" alt="Typing SVG" />
-</p>
 
-<p align="center">
-Building production-ready AI applications using Python, FastAPI, LangChain, LangGraph and modern LLM frameworks.
+<a href="https://sundaralingam-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sundaralingam17/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sundaralingamduraisamy17@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sundaralingamduraisamy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
