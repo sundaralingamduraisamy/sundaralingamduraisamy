@@ -429,3 +429,166 @@ An AI-powered fraud detection platform that evaluates Instagram accounts using b
 </div>
 
 ---
+
+---
+
+# Professional Experience
+
+## 💼 AI Engineering Intern | Centillion Labs, Bengaluru
+
+**📅 Sep 2025 – May 2026**
+
+Designed and developed enterprise-grade AI solutions for the automotive industry by combining Large Language Models, Retrieval-Augmented Generation (RAG), Computer Vision, and scalable backend engineering. Contributed to production-ready AI workflows focused on intelligent automation and document understanding.
+
+### Key Responsibilities
+
+- Developed a multi-modal AI agent for automotive RFQ automation.
+- Built semantic retrieval pipelines using LangChain, LangGraph, and pgvector.
+- Integrated JinaCLIP for visual understanding of engineering documents.
+- Developed REST APIs using FastAPI for AI services.
+- Automated PDF and DOCX document generation.
+- Containerized applications using Docker for deployment.
+- Collaborated on scalable backend architecture for enterprise AI applications.
+
+**Tech Stack**
+
+`Python` `FastAPI` `LangChain` `LangGraph` `Groq` `Llama 3` `Docker` `PostgreSQL` `pgvector` `JinaCLIP`
+
+---
+
+## 💼 AI Engineering Intern | Lychee Labs, London (Remote)
+
+**📅 Dec 2025 (3 Weeks)**
+
+Worked on research-oriented Proof of Concepts focused on intelligent manufacturing and automotive applications using next-generation AI techniques.
+
+### Key Responsibilities
+
+- Explored Spiking Neural Networks (SNNs).
+- Studied Neuromorphic Computing architectures.
+- Built AI Proof-of-Concept solutions.
+- Worked with automotive datasets.
+- Investigated intelligent manufacturing workflows.
+
+**Tech Stack**
+
+`Python` `AI Research` `Neuromorphic Computing` `SNN`
+
+---
+
+## 💼 Full Stack Intern | LST Technologies Pvt. Ltd., Coimbatore
+
+**📅 Aug 2025**
+
+Worked on modern web application development by integrating frontend components, backend APIs, and RESTful services.
+
+### Key Responsibilities
+
+- Developed responsive web application features.
+- Integrated frontend with backend services.
+- Built REST APIs.
+- Collaborated on application development lifecycle.
+
+**Tech Stack**
+
+`Python` `React` `FastAPI` `REST APIs`
+
+---
+
+# Leadership & Activities
+
+| Position | Organization | Highlights |
+|-----------|--------------|------------|
+| **Captain** | College Handball Team | Led the team in District, State & South Zone competitions |
+| **Treasurer** | College Sports Committee | Managed committee responsibilities and event coordination |
+| **Engineering Student** | Dr. NGP Institute of Technology | Active participant in hackathons, AI projects, and technical events |
+
+---
+
+# Achievements
+
+<div align="center">
+
+| 🏆 Recognition | Details |
+|---------------|---------|
+| 🥈 **Finalist — Vishwakarma Awards** | Recognized among the top national innovators at IIT Hyderabad |
+| 🎓 **International Conference** | Represented the institution at the National Conference – Singapore |
+| 🥇 **Paper Presentation Winner** | Secured First Place at KCT College of Technology |
+| 🥇 **LogicCraze Champion** | First Place in Circuit Debug & Reverse Engineering Event |
+| 🤾 **Handball Achievement** | District, State & South Zone National Level Champion |
+| 👨‍💼 **Team Leadership** | Captain of the College Handball Team |
+| 🚀 **Industry Experience** | 9+ months of AI Engineering internship experience |
+
+</div>
+
+---
+
+# Certifications
+
+## Anthropic Professional Certifications
+
+<div align="center">
+
+![](https://img.shields.io/badge/Anthropic-Claude_Code-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Anthropic-Prompt_Engineering-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Anthropic-Agent_Skills-5B21B6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Anthropic-Subagents-4C1D95?style=for-the-badge)
+
+![](https://img.shields.io/badge/Anthropic-Claude_Cowork-4338CA?style=for-the-badge)
+
+</div>
+
+---
+
+## NPTEL Certifications
+
+<div align="center">
+
+![](https://img.shields.io/badge/NPTEL-Cloud_Computing_(Elite)-2563EB?style=for-the-badge)
+
+![](https://img.shields.io/badge/NPTEL-Human_Computer_Interaction_(Elite_Silver)-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/NPTEL-Internet_of_Things_(Elite)-6366F1?style=for-the-badge)
+
+</div>
+
+---
+
+## Currently Pursuing
+
+<div align="center">
+
+![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
+
+![](https://img.shields.io/badge/Generative_AI-Advanced-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/LangGraph-Production_Workflows-5B21B6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Agentic_AI-Enterprise_Systems-4338CA?style=for-the-badge)
+
+</div>
+
+---
+
+# Education
+
+| Qualification | Institution | Duration |
+|---------------|------------|----------|
+| **Bachelor of Technology (B.Tech)** | Dr. NGP Institute of Technology | 2023 – 2027 |
+| **Branch** | Computer Science and Business Systems (CSBS) | Final Year |
+| **Current CGPA** | **8.12 / 10** | No Active Backlogs |
+
+---
+
+<div align="center">
+
+### Core Engineering Values
+
+**Software Engineering • AI Engineering • Product Thinking • Continuous Learning • Problem Solving • Clean Architecture**
+
+</div>
+
+---
