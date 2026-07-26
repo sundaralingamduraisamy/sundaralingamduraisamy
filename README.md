@@ -592,3 +592,165 @@ Worked on modern web application development by integrating frontend components,
 </div>
 
 ---
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+> **Replace the above links with your actual coding profile URLs.**
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sundaralingamduraisamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaralingamduraisamy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sundaralingamduraisamy&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sundaralingamduraisamy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sundaralingamduraisamy&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+> **After enabling GitHub Actions, replace the image below with your generated snake animation.**
+
+```text
+https://raw.githubusercontent.com/sundaralingamduraisamy/sundaralingamduraisamy/output/github-contribution-grid-snake-dark.svg
+```
+
+Once enabled, use:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/sundaralingamduraisamy/sundaralingamduraisamy/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+```
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Agentic AI
+  - Multi-Agent Systems
+  - Distributed AI Architectures
+  - AWS Cloud Services
+  - Kubernetes
+  - System Design
+
+Building:
+  - Production AI Applications
+  - Enterprise RAG Systems
+  - AI Automation Platforms
+  - Computer Vision Solutions
+  - FastAPI Backend Services
+
+Exploring:
+  - MCP (Model Context Protocol)
+  - AI Infrastructure
+  - LLM Security
+  - Autonomous AI Agents
+  - AI Evaluation Frameworks
+
+Open To:
+  - AI Engineer Roles
+  - Software Engineer Roles
+  - Full Stack Engineering
+  - Open Source Collaboration
+  - Research Opportunities
+```
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:sundaralingamduraisamy17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sundaralingam17/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sundaralingamduraisamy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sundaralingam-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Great software isn't built by writing more code—it's built by solving the right problems with the right engineering."*
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4B0082,35:6A0DAD,70:7F00FF,100:3B82F6"/>
+
+</div>
