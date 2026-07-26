@@ -189,3 +189,243 @@ I continuously explore emerging AI technologies while strengthening my expertise
 > *"Engineering intelligent systems that bridge cutting-edge AI research with production-ready software."*
 
 </div>
+
+---
+
+# AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|:-------|:-----------:|:--------|
+| **Agentic AI** | ★★★★★ | Multi-agent orchestration, autonomous workflows, intelligent task execution |
+| **Large Language Models (LLMs)** | ★★★★★ | OpenAI, Anthropic Claude, Groq, prompt engineering, reasoning pipelines |
+| **Retrieval-Augmented Generation (RAG)** | ★★★★★ | FAISS, pgvector, semantic retrieval, enterprise knowledge systems |
+| **LangChain Ecosystem** | ★★★★★ | LangChain, LangGraph, custom AI agents, workflow orchestration |
+| **Computer Vision** | ★★★★☆ | OpenCV, CLIP, multimodal document understanding, object identification |
+| **Backend Engineering** | ★★★★★ | FastAPI, REST APIs, scalable AI backend services |
+| **Vector Databases** | ★★★★☆ | pgvector, embeddings, similarity search, semantic indexing |
+| **Generative AI** | ★★★★★ | Enterprise AI assistants, intelligent automation, AI copilots |
+| **Machine Learning** | ★★★★☆ | PyTorch, Transformers, model integration, inference pipelines |
+| **Cloud AI** | ★★★★☆ | AWS, Docker, production deployment, AI infrastructure |
+
+</div>
+
+---
+
+# Featured Projects
+
+<details open>
+<summary>
+
+## 🚗 Automotive RFQ Automation Agent
+
+</summary>
+
+### Overview
+
+Designed and developed a production-ready **multi-modal AI platform** that automates the automotive Request for Quotation (RFQ) generation process. The system understands engineering documents, retrieves semantic information from images and technical specifications, and drafts structured RFQs using LLM-powered reasoning.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • FastAPI • LangChain • LangGraph • JinaCLIP • pgvector • PostgreSQL • Docker • Groq |
+| **Architecture** | Multi-Agent AI • Retrieval-Augmented Generation (RAG) |
+| **Performance** | Semantic retrieval for technical drawings and engineering documentation |
+| **Security** | Backend validation, structured document processing, secure API architecture |
+| **Business Impact** | Reduced manual RFQ preparation through intelligent automation |
+| **Repository** | *Private Enterprise Project* |
+
+### Key Highlights
+
+- Developed an enterprise-grade RAG pipeline
+- Integrated multimodal document understanding
+- Automated RFQ drafting using Llama 3
+- Semantic image retrieval using JinaCLIP
+- Vector search with pgvector
+- Automated PDF & DOCX generation
+- Production-ready FastAPI backend
+- Dockerized deployment architecture
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🔍 Automobile AI Component Extraction System
+
+</summary>
+
+### Overview
+
+An intelligent computer vision pipeline capable of identifying automotive components from engineering diagrams using CLIP embeddings, OpenCV preprocessing, and LLM reasoning for enhanced mechanical understanding.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • OpenCV • CLIP • FastAPI • OpenAI • Groq |
+| **Architecture** | Computer Vision + LLM Reasoning |
+| **Performance** | Automated visual deduplication and component recognition |
+| **Security** | Secure inference pipeline |
+| **Business Impact** | Improved engineering document intelligence |
+| **Repository** | *Private Project* |
+
+### Key Highlights
+
+- Image preprocessing pipeline
+- CLIP-based visual embeddings
+- Mechanical component recognition
+- AI-assisted engineering analysis
+- Automated duplicate detection
+- REST API integration
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🤖 AI Assistant Manager
+
+</summary>
+
+### Overview
+
+Enterprise knowledge management platform powered by Retrieval-Augmented Generation. Designed to enable organizations to search, retrieve, and interact with technical documentation through conversational AI.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • LangChain • FastAPI • FAISS • HuggingFace • PostgreSQL |
+| **Architecture** | Enterprise RAG |
+| **Performance** | Low-latency semantic document retrieval |
+| **Security** | Document isolation and backend validation |
+| **Business Impact** | Faster enterprise knowledge discovery |
+| **Repository** | GitHub |
+
+### Key Highlights
+
+- Semantic search
+- Document indexing
+- AI-powered Q&A
+- Vector embeddings
+- Enterprise backend APIs
+- Knowledge management workflows
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🛡️ SECURE-I — LLM Security Benchmarking Platform
+
+</summary>
+
+### Overview
+
+Security-focused AI research platform developed to evaluate prompt robustness, jailbreak resistance, and Large Language Model safety across multiple providers.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • FastAPI • OpenAI • Claude • Groq |
+| **Architecture** | LLM Evaluation Framework |
+| **Performance** | Automated benchmarking workflows |
+| **Security** | Prompt injection and jailbreak testing |
+| **Business Impact** | Improved AI application reliability |
+| **Repository** | GitHub |
+
+### Key Highlights
+
+- Prompt safety evaluation
+- Jailbreak testing
+- Benchmark automation
+- Multi-model comparison
+- AI risk analysis
+- Security reporting
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 📸 ClipScout — Visual Document Intelligence
+
+</summary>
+
+### Overview
+
+A multimodal document intelligence system capable of extracting visual context from PDFs, engineering drawings, and scanned documents using image embeddings and semantic retrieval.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • JinaCLIP • OpenCV • LangChain • FastAPI |
+| **Architecture** | Multimodal AI |
+| **Performance** | High-quality image similarity search |
+| **Security** | Secure document processing |
+| **Business Impact** | Enhanced engineering document understanding |
+| **Repository** | GitHub |
+
+### Key Highlights
+
+- Visual embeddings
+- Semantic image retrieval
+- PDF intelligence
+- Engineering document analysis
+- Image understanding
+- AI-powered search
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+## 🕵️ InstaTrust — AI Instagram Fraud Analyzer
+
+</summary>
+
+### Overview
+
+An AI-powered fraud detection platform that evaluates Instagram accounts using behavioral analytics, machine learning, and LLM reasoning to estimate account trustworthiness.
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Python • Random Forest • FastAPI • Groq • Llama 3 |
+| **Architecture** | ML + LLM Hybrid |
+| **Performance** | Automated account risk assessment |
+| **Security** | Fraud detection pipeline |
+| **Business Impact** | Social media trust analysis |
+| **Repository** | GitHub |
+
+### Key Highlights
+
+- Machine learning classifier
+- Risk scoring
+- Behavioral analysis
+- LLM explanations
+- API backend
+- Fraud insights
+
+</details>
+
+---
+
+<div align="center">
+
+## Engineering Philosophy
+
+*"I believe Artificial Intelligence becomes truly valuable only when it is engineered as reliable, scalable, and maintainable software. My focus is on building production-ready AI systems that solve real business problems through strong software engineering principles rather than experimental prototypes."*
+
+</div>
+
+---
