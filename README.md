@@ -660,23 +660,12 @@ Worked on modern web application development by integrating frontend components,
 
 ---
 
+
 # Contribution Snake
 
 <div align="center">
 
-> **After enabling GitHub Actions, replace the image below with your generated snake animation.**
-
-```text
-https://raw.githubusercontent.com/sundaralingamduraisamy/sundaralingamduraisamy/output/github-contribution-grid-snake-dark.svg
-```
-
-Once enabled, use:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/sundaralingamduraisamy/sundaralingamduraisamy/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-```
+<img src="https://raw.githubusercontent.com/sundaralingamduraisamy/sundaralingamduraisamy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
