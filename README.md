@@ -616,7 +616,7 @@ Worked on modern web application development by integrating frontend components,
 
 </div>
 
-> **Replace the above links with your actual coding profile URLs.**
+
 
 ---
 
@@ -640,15 +640,7 @@ Worked on modern web application development by integrating frontend components,
 
 ---
 
-# GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sundaralingamduraisamy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
 
 # Contribution Activity
 
